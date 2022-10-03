@@ -32,5 +32,7 @@ https://jupyterbook.org/
   - Image types
   - Citation
   - Footnote
-  - 
+  - Linked Open Data
+  - Deep image zoom
+  - Compakt model
   
