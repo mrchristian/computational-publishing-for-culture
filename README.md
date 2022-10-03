@@ -18,6 +18,8 @@ https://colab.research.google.com/
 
 https://curvenote.com/
 
+https://mrchristian-computational.curve.space/computational-publishing-for-culture
+
 ## Book creation and presentation
 
 https://jupyterbook.org/
