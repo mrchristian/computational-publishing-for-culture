@@ -1,6 +1,6 @@
 # Computational Publishing
 
-## Presentation
+## Presentation / deployment
 
 https://mybinder.org/
             
@@ -9,6 +9,8 @@ https://mybinder.org/
 https://colab.research.google.com/
             
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrchristian/jupyter_binder/blob/main/colab.ipynb)
+
+Curvenote deploy from GitHub: https://curvenote.com/demos/publish-from-github
 
 ## Authoring
 
