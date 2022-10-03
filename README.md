@@ -12,9 +12,11 @@ https://colab.research.google.com/
 
 ## Authoring
 
+### Online
+
 https://colab.research.google.com/
 
-
+https://curvenote.com/
 
 ## Book creation and presentation
 
